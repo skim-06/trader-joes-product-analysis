@@ -5,9 +5,17 @@ The project consists of two stages:
 1. Cleaning and integrating raw review data with historical Trader Joe's pricing information.
 2. Performing exploratory data analysis to identify trends between ratings, price, storage type, and food category.
 
+### Quick Look
+
 ![Price vs. Score](images/price_score_scatterplot.png)
 
+The scatterplot above details a visualization of the relationship between the prices vs. products' scores.
+
+
+
 ![Food Category Ratings](images/food_category_boxplot.png)
+
+The boxplot shown summarizes the most populous food categories and their respective ratings, showing how JonnyCakes' perceived quality fluctuates between various types of food.
 
 ## Skills Demonstrated
 
