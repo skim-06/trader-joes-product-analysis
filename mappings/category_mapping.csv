@@ -1,0 +1,41 @@
+category,storage_type,food_category
+Chips,Shelf Stable,Chips
+Cheese,Refrigerated,Dip
+Cat Food,Shelf Stable,Cat Food
+Dog Food,Shelf Stable,Dog Food
+Crackers/Puffs/Popcorn,Shelf Stable,Chips
+Cookies,Bakery,Dessert
+Cakes,Bakery,Dessert
+Pastries,Bakery,Dessert
+Ice Cream,Frozen,Dessert
+Candy,Shelf Stable,Dessert
+Sweets,Shelf Stable,Dessert
+Alcohol (Beer),Beverage,Alcohol
+Alcohol (Cocktails),Beverage,Alcohol
+Alcohol (Hard Liquor),Beverage,Alcohol
+Alcohol (Red Wine),Beverage,Alcohol
+Alcohol (White Wine),Beverage,Alcohol
+Cake (Box Mix),Bakery,Dessert
+Cake (Breakfast),Bakery,Dessert
+Cake (Misc),Bakery,Dessert
+Cake (Sheet),Bakery,Dessert
+Cake (Specialty),Bakery,Dessert
+Frozen (Appetizer),Frozen,Entree
+Frozen (Asian),Frozen,Asian Entree
+Frozen (Fish),Frozen,Entree
+Frozen (Indian),Frozen,Indian Entree
+Frozen (Italian),Frozen,Italian Entree
+Holiday (Cat Food),Shelf Stable,Cat Food
+Holiday (Dog Food),Shelf Stable,Dog Food
+Microwavable (American),Refrigerated,Entree
+Microwavable (Asian),Refrigerated,Asian Entree
+Microwavable (European),Refrigerated,European Entree
+Microwavable (Latin American),Refrigerated,Latin American Entree
+Microwavable (Middle East),Refrigerated,Middle East Entree
+Pizza (Normal),Frozen,Pizza
+Pizza (Tarte),Frozen,Pizza
+Pizza (Minis),Frozen,Pizza
+Pizza (Flat Bread),Frozen,Pizza
+Pizza (GF),Frozen,Pizza
+Pizza (Specialty Meat Pizza),Frozen,Pizza
+Pizza (Vegetarian),Frozen,Pizza
